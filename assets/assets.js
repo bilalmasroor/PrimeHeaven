@@ -16,6 +16,10 @@ import product_img9 from "./product_img9.png"
 import product_img10 from "./product_img10.png"
 import product_img11 from "./product_img11.png"
 import product_img12 from "./product_img12.png"
+import product_img13 from "./product_img13.png"
+import product_img14 from "./product_img14.png"
+import product_img15 from "./product_img15.png"
+import product_img16 from "./product_img16.png"
 import { ClockFadingIcon, HeadsetIcon, SendIcon } from "lucide-react";
 import profile_pic1 from "./profile_pic1.jpg"
 import profile_pic2 from "./profile_pic2.jpg"
@@ -74,8 +78,8 @@ export const productDummyData = [
         inStock: true,
         store: dummyStoreData,
         rating: dummyRatingsData,
-        createdAt: 'Sat Jul 29 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 29 2025 14:51:25 GMT+0530 (India Standard Time)',
+        createdAt: 'Sat Jul 29 2025 14:51:25 GMT+0530',
+        updatedAt: 'Sat Jul 29 2025 14:51:25 GMT+0530 ',
     },
     {
         id: "prod_2",
@@ -89,8 +93,8 @@ export const productDummyData = [
         store: dummyStoreData,
         category: "Adhesives",
         rating: dummyRatingsData,
-        createdAt: 'Sat Jul 28 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 28 2025 14:51:25 GMT+0530 (India Standard Time)',
+        createdAt: 'Sat Jul 28 2025 14:51:25 GMT+0530 ',
+        updatedAt: 'Sat Jul 28 2025 14:51:25 GMT+0530 ',
     },
     {
         id: "prod_3",
@@ -104,8 +108,8 @@ export const productDummyData = [
         store: dummyStoreData,
         category: "Electronics/Tools",
         rating: dummyRatingsData,
-        createdAt: 'Sat Jul 27 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 27 2025 14:51:25 GMT+0530 (India Standard Time)',
+        createdAt: 'Sat Jul 27 2025 14:51:25 GMT+0530 ',
+        updatedAt: 'Sat Jul 27 2025 14:51:25 GMT+0530 ',
     },
     {
         id: "prod_4",
@@ -119,8 +123,8 @@ export const productDummyData = [
         store: dummyStoreData,
         category: "Office Supplies",
         rating: dummyRatingsData,
-        createdAt: 'Sat Jul 26 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 26 2025 14:51:25 GMT+0530 (India Standard Time)',
+        createdAt: 'Sat Jul 26 2025 14:51:25 GMT+0530 ',
+        updatedAt: 'Sat Jul 26 2025 14:51:25 GMT+0530 ',
     },
     {
         id: "prod_5",
@@ -134,8 +138,8 @@ export const productDummyData = [
         store: dummyStoreData,
         category: "Office Supplies",
         rating: [...dummyRatingsData,...dummyRatingsData],
-        createdAt: 'Sat Jul 25 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 25 2025 14:51:25 GMT+0530 (India Standard Time)',
+        createdAt: 'Sat Jul 25 2025 14:51:25 GMT+0530 ',
+        updatedAt: 'Sat Jul 25 2025 14:51:25 GMT+0530 ',
     },
     {
         id: "prod_6",
@@ -149,8 +153,8 @@ export const productDummyData = [
         store: dummyStoreData,
         category: "Electronics/Tools",
         rating: [...dummyRatingsData,...dummyRatingsData],
-        createdAt: 'Sat Jul 25 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 25 2025 14:51:25 GMT+0530 (India Standard Time)',
+        createdAt: 'Sat Jul 25 2025 14:51:25 GMT+0530 ',
+        updatedAt: 'Sat Jul 25 2025 14:51:25 GMT+0530 ',
     },
     {
         id: "prod_7",
@@ -164,8 +168,8 @@ export const productDummyData = [
         store: dummyStoreData,
         category: "Cleaning Supplies",
         rating: [...dummyRatingsData,...dummyRatingsData],
-        createdAt: 'Sat Jul 24 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 24 2025 14:51:25 GMT+0530 (India Standard Time)',
+        createdAt: 'Sat Jul 24 2025 14:51:25 GMT+0530 ',
+        updatedAt: 'Sat Jul 24 2025 14:51:25 GMT+0530 ',
     },
     {
         id: "prod_8",
@@ -179,8 +183,8 @@ export const productDummyData = [
         store: dummyStoreData,
         category: "Cleaning Supplies",
         rating: [...dummyRatingsData,...dummyRatingsData],
-        createdAt: 'Sat Jul 23 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 23 2025 14:51:25 GMT+0530 (India Standard Time)',
+        createdAt: 'Sat Jul 23 2025 14:51:25 GMT+0530 ',
+        updatedAt: 'Sat Jul 23 2025 14:51:25 GMT+0530 ',
     },
     {
         id: "prod_9",
@@ -194,8 +198,8 @@ export const productDummyData = [
         store: dummyStoreData,
         category: "Electronics/Tools",
         rating: [...dummyRatingsData,...dummyRatingsData],
-        createdAt: 'Sat Jul 22 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 22 2025 14:51:25 GMT+0530 (India Standard Time)',
+        createdAt: 'Sat Jul 22 2025 14:51:25 GMT+0530 ',
+        updatedAt: 'Sat Jul 22 2025 14:51:25 GMT+0530 ',
     },
     {
         id: "prod_10",
@@ -209,8 +213,8 @@ export const productDummyData = [
         store: dummyStoreData,
         category: "Industrial Equipment",
         rating: [...dummyRatingsData,...dummyRatingsData],
-        createdAt: 'Sat Jul 21 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 21 2025 14:51:25 GMT+0530 (India Standard Time)',
+        createdAt: 'Sat Jul 21 2025 14:51:25 GMT+0530 ',
+        updatedAt: 'Sat Jul 21 2025 14:51:25 GMT+0530 ',
     },
     {
         id: "prod_11",
@@ -224,8 +228,8 @@ export const productDummyData = [
         store: dummyStoreData,
         category: "Electronics/Tools",
         rating: [...dummyRatingsData,...dummyRatingsData],
-        createdAt: 'Sat Jul 20 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 20 2025 14:51:25 GMT+0530 (India Standard Time)',
+        createdAt: 'Sat Jul 20 2025 14:51:25 GMT+0530 ',
+        updatedAt: 'Sat Jul 20 2025 14:51:25 GMT+0530 ',
     },
     {
         id: "prod_12",
@@ -239,10 +243,72 @@ export const productDummyData = [
         store: dummyStoreData,
         category: "Electronics/Tools",
         rating: [...dummyRatingsData,...dummyRatingsData],
-        createdAt: 'Sat Jul 19 2025 14:51:25 GMT+0530 (India Standard Time)',
-        updatedAt: 'Sat Jul 19 2025 14:51:25 GMT+0530 (India Standard Time)',
-    }
+        createdAt: 'Sat Jul 19 2025 14:51:25 GMT+0530 ',
+        updatedAt: 'Sat Jul 19 2025 14:51:25 GMT+0530 ',
+    },
+     {
+  id: "prod_13",
+  name: "Steel Mixer Hook",
+  description: "Upgrade your baking experience with this Stainless Steel Spiral Dough Hook, perfectly compatible with KitchenAid 4.5QT and 5QT tilt-head stand mixers. Crafted from premium, rust-resistant stainless steel, it effortlessly kneads heavy doughs like bread, pizza, and pasta. Its spiral design ensures smoother mixing and consistent texture, reducing strain on your mixer motor.",
+  mrp: 89,
+  price: 39,
+  images: [product_img13],
+  storeId: "seller_1",
+  inStock: true,
+  store: dummyStoreData,
+  category: "Kitchen Tools",
+  rating: [...dummyRatingsData],
+  createdAt: 'Sat Jul 18 2025 14:51:25 GMT+0530',
+  updatedAt: 'Sat Jul 18 2025 14:51:25 GMT+0530',
+},
+{
+  id: "prod_14",
+  name: "Belgian Waffle Maker",
+  description: "Create crispy, golden waffles in minutes with this Belgian Electric Waffle Maker. Featuring 4-slot double-sided heating, it ensures even cooking on both sides for perfectly fluffy interiors and crunchy exteriors. The smart temperature control system prevents overcooking, while the non-stick coating allows for effortless food release and quick cleaning. Compact yet powerful, this waffle maker is ideal for breakfast lovers who enjoy convenience without compromising taste. Perfect for making classic Belgian waffles, desserts, and snacks at home with ease.",
+  mrp: 129,
+  price: 29,
+  images: [product_img14],
+  storeId: "seller_1",
+  inStock: true,
+  store: dummyStoreData,
+  category: "Kitchen Appliances",
+  rating: [...dummyRatingsData],
+  createdAt: 'Sat Jul 17 2025 14:51:25 GMT+0530',
+  updatedAt: 'Sat Jul 17 2025 14:51:25 GMT+0530',
+},
+{
+  id: "prod_15",
+  name: "Double Sided Waffle",
+  description: "Enjoy café-style waffles and muffins right at home with this Double-Sided Rotary Waffle Maker. Designed with 360° turnover heating, it ensures even browning and ultra-thick, fluffy results every time. The full-automatic temperature control eliminates guesswork, while the non-stick cooking plates make cleanup effortless. Its sturdy build and smart rotary design allow uniform heat distribution, delivering perfectly cooked waffles, pancakes, and cakes in minutes. Ideal for households that love quick, delicious breakfasts with minimal effort.",
+  mrp: 139,
+  price: 35,
+  images: [product_img15],
+  storeId: "seller_1",
+  inStock: true,
+  store: dummyStoreData,
+  category: "Kitchen Appliances",
+  rating: [...dummyRatingsData],
+  createdAt: 'Sat Jul 16 2025 14:51:25 GMT+0530',
+  updatedAt: 'Sat Jul 16 2025 14:51:25 GMT+0530',
+},
+{
+  id: "prod_16",
+  name: "Tactical Combat Gloves",
+  description: "Stay protected and perform with confidence using these Full-Finger Tactical Combat Gloves. Built with hard knuckle protection and reinforced stitching, they’re ideal for cycling, camping, hiking, and shooting. The durable microfiber and breathable mesh construction ensures comfort during long wear, while the anti-slip palm design provides superior grip and control. Suitable for both men and women, these gloves offer impact resistance, flexibility, and easy adjustable wrist straps for a secure fit. Perfect for outdoor enthusiasts, military training, or everyday tactical use.",
+  mrp: 69,
+  price: 32,
+  images: [product_img16],
+  storeId: "seller_1",
+  inStock: true,
+  store: dummyStoreData,
+  category: "Outdoor Gear",
+  rating: [...dummyRatingsData],
+  createdAt: 'Sat Jul 15 2025 14:51:25 GMT+0530',
+  updatedAt: 'Sat Jul 15 2025 14:51:25 GMT+0530',
+}
+
 ];
+
 
 export const ourSpecsData = [
     { title: "Free Shipping", description: "Enjoy fast, free delivery on every order no conditions, just reliable doorstep.", icon: SendIcon, accent: '#05DF72' },
