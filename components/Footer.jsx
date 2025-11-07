@@ -39,10 +39,7 @@ const Footer = () => {
         }
     ];
 
-    const socialIcons = [
-        { icon: FacebookIcon, link: "https://www.facebook.com" },
-        { icon: InstagramIcon, link: "https://www.instagram.com" },
-    ]
+
 
     return (
         <footer className="mx-6 bg-white">
