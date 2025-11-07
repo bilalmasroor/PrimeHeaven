@@ -56,13 +56,6 @@ const Footer = () => {
                          />
                           </Link>
                         <p className="max-w-[410px] mt-6 text-sm">Welcome to Prime Heaven your trusted destination for premium kitchen and automobile essentials. From innovative cookware and home tools to high-performance car accessories, we bring convenience and quality together all in one place.</p>
-                        <div className="flex items-center gap-3 mt-5">
-                            {socialIcons.map((item, i) => (
-                                <Link href={item.link} key={i} className="flex items-center justify-center w-10 h-10 bg-slate-100 hover:scale-105 hover:border border-slate-300 transition rounded-full">
-                                    <item.icon />
-                                </Link>
-                            ))}
-                        </div>
                     </div>
                     <div className="flex flex-wrap justify-between w-full md:w-[45%] gap-5 text-sm ">
                         {linkSections.map((section, index) => (
